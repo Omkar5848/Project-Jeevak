@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Project-Jeevak/static/css/main.046cccb1.css",
-    "main.js": "/Project-Jeevak/static/js/main.a134ae12.js",
+    "main.js": "/Project-Jeevak/static/js/main.89810e11.js",
     "index.html": "/Project-Jeevak/index.html",
     "main.046cccb1.css.map": "/Project-Jeevak/static/css/main.046cccb1.css.map",
-    "main.a134ae12.js.map": "/Project-Jeevak/static/js/main.a134ae12.js.map"
+    "main.89810e11.js.map": "/Project-Jeevak/static/js/main.89810e11.js.map"
   },
   "entrypoints": [
     "static/css/main.046cccb1.css",
-    "static/js/main.a134ae12.js"
+    "static/js/main.89810e11.js"
   ]
 }
